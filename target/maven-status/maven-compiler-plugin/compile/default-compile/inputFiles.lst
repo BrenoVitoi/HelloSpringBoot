@@ -1,2 +1,5 @@
 C:\workspace\CursoSpringBootTW\HelloSpringBoot\src\main\java\br\com\treinaweb\springboot\Application.java
+C:\workspace\CursoSpringBootTW\HelloSpringBoot\src\main\java\br\com\treinaweb\springboot\controllers\InstituicoesController.java
 C:\workspace\CursoSpringBootTW\HelloSpringBoot\src\main\java\br\com\treinaweb\springboot\controllers\HelloController.java
+C:\workspace\CursoSpringBootTW\HelloSpringBoot\src\main\java\br\com\treinaweb\springboot\entidades\Instituicao.java
+C:\workspace\CursoSpringBootTW\HelloSpringBoot\src\main\java\br\com\treinaweb\springboot\repositorios\RepositorioInstituicao.java
